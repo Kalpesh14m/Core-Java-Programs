@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-19T03:24:14</date>
+  <millis>1568843654459</millis>
+  <sequence>0</sequence>
+  <logger>com.java.kalpesh.loggingdemo.LoggerFormatter</logger>
+  <level>INFO</level>
+  <class>com.java.kalpesh.loggingdemo.LoggerFormatter</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finnest message: Logger with DEFAULT FORMATTER</message>
+</record>
+Sep 19, 2019 3:24:14 AM com.java.kalpesh.loggingdemo.LoggerFormatter main
+FINEST: Finnest message: Logger with SIMPLE FORMATTER

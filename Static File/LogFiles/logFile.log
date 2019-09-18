@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-19T03:24:46</date>
+  <millis>1568843686793</millis>
+  <sequence>0</sequence>
+  <logger>com.java.kalpesh.loggingdemo.LoggerHandler</logger>
+  <level>CONFIG</level>
+  <class>com.java.kalpesh.loggingdemo.LoggerHandler</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2019-09-19T03:24:46</date>
+  <millis>1568843686813</millis>
+  <sequence>1</sequence>
+  <logger>com.java.kalpesh.loggingdemo.LoggerHandler</logger>
+  <level>FINE</level>
+  <class>com.java.kalpesh.loggingdemo.LoggerHandler</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2019-09-19T03:24:46</date>
+  <millis>1568843686813</millis>
+  <sequence>2</sequence>
+  <logger>com.java.kalpesh.loggingdemo.LoggerHandler</logger>
+  <level>FINER</level>
+  <class>com.java.kalpesh.loggingdemo.LoggerHandler</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
