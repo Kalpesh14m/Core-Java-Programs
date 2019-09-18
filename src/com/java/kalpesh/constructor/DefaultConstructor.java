@@ -1,3 +1,5 @@
+package com.java.kalpesh.constructor;
+
 /* 
  * In Java, a constructor is a block of codes similar to the method. 
  * It is called when an instance of the class is created. 
@@ -9,9 +11,7 @@
  * In such case, Java compiler provides a default constructor by default.
  * Note: We can use access modifiers while declaring a constructor. It controls the object creation. In other words, we can have private, protected, public or default constructor in Java.
  */
-/**/
 
-/**/
 /*No argument Constructors ==> 
  * As the name specifies the no argument constructors of Java does not accept any parameters instead, using these constructors the instance variables of a method will be initialized with fixed values for all objects.package com.java.kalpesh.constructor;
 */
